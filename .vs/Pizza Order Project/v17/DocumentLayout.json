@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\orderconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|d:\\mido\\back to glory\\recent programming\\c# level 1\\pizza order project\\orderconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|solutionrelative:orderconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,11 +15,11 @@
       "RelativeMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|solutionrelative:orderdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|d:\\mido\\back to glory\\recent programming\\c# level 1\\pizza order project\\aboutus.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\aboutus.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|solutionrelative:aboutus.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|d:\\mido\\back to glory\\recent programming\\c# level 1\\pizza order project\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|solutionrelative:orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -27,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|solutionrelative:orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|d:\\mido\\back to glory\\recent programming\\c# level 1\\pizza order project\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|solutionrelative:aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -61,8 +61,7 @@
               "ToolTip": "D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\AboutUs.cs [Design]",
               "RelativeToolTip": "AboutUs.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T10:18:23.383Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-14T10:18:23.383Z"
             },
             {
               "$type": "Document",
@@ -74,8 +73,7 @@
               "RelativeToolTip": "AboutUs.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T10:18:15.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T10:18:15.891Z"
             },
             {
               "$type": "Document",
@@ -87,8 +85,7 @@
               "RelativeToolTip": "OrderDetails.Designer.cs",
               "ViewState": "AgIAAOcBAAAAAAAAAAAewPwBAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T09:04:09.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T09:04:09.38Z"
             },
             {
               "$type": "Document",
@@ -125,8 +122,7 @@
               "RelativeToolTip": "OrderDetails.cs",
               "ViewState": "AgIAACgBAAAAAAAAAAApwDUBAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T19:22:02.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-11T19:22:02.304Z"
             },
             {
               "$type": "Document",
@@ -137,8 +133,7 @@
               "ToolTip": "D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\OrderDetails.cs [Design]",
               "RelativeToolTip": "OrderDetails.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T18:56:57.992Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-11T18:56:57.992Z"
             },
             {
               "$type": "Document",
@@ -150,8 +145,7 @@
               "RelativeToolTip": "PizzaRestaurant.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T18:53:19.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-11T18:53:19.479Z"
             },
             {
               "$type": "Document",
@@ -162,8 +156,7 @@
               "ToolTip": "D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\PizzaRestaurant.cs [Design]",
               "RelativeToolTip": "PizzaRestaurant.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T18:52:35.938Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-11T18:52:35.938Z"
             }
           ]
         }
