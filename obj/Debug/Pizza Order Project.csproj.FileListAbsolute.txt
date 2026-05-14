@@ -1,0 +1,14 @@
+D:\Mido\Back to Glory\Recent Programming\C# Level 1\Pizza Order Project\bin\Debug\Pizza Order Project.exe.config
+D:\Mido\Back to Glory\Recent Programming\C# Level 1\Pizza Order Project\bin\Debug\Pizza Order Project.exe
+D:\Mido\Back to Glory\Recent Programming\C# Level 1\Pizza Order Project\bin\Debug\Pizza Order Project.pdb
+D:\Mido\Back to Glory\Recent Programming\C# Level 1\Pizza Order Project\obj\Debug\Pizza Order Project.csproj.AssemblyReference.cache
+D:\Mido\Back to Glory\Recent Programming\C# Level 1\Pizza Order Project\obj\Debug\Pizza_Order_Project.PizzaRestaurant.resources
+D:\Mido\Back to Glory\Recent Programming\C# Level 1\Pizza Order Project\obj\Debug\Pizza_Order_Project.Properties.Resources.resources
+D:\Mido\Back to Glory\Recent Programming\C# Level 1\Pizza Order Project\obj\Debug\Pizza Order Project.csproj.GenerateResource.cache
+D:\Mido\Back to Glory\Recent Programming\C# Level 1\Pizza Order Project\obj\Debug\Pizza Order Project.csproj.CoreCompileInputs.cache
+D:\Mido\Back to Glory\Recent Programming\C# Level 1\Pizza Order Project\obj\Debug\Pizza Order Project.exe
+D:\Mido\Back to Glory\Recent Programming\C# Level 1\Pizza Order Project\obj\Debug\Pizza Order Project.pdb
+D:\Mido\Back to Glory\Recent Programming\C# Level 1\Pizza Order Project\obj\Debug\Pizza Order Project.exe.config
+D:\Mido\Back to Glory\Recent Programming\C# Level 1\Pizza Order Project\obj\Debug\Pizza_Order_Project.OrderDetails.resources
+D:\Mido\Back to Glory\Recent Programming\C# Level 1\Pizza Order Project\obj\Debug\Pizza_Order_Project.AboutUs.resources
+D:\Mido\Back to Glory\Recent Programming\C# Level 1\Pizza Order Project\obj\Debug\Pizza_Order_Project.OrderConfirm.resources
