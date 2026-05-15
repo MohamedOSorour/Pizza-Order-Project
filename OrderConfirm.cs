@@ -92,5 +92,10 @@ namespace Pizza_Order_Project
         {
 
         }
+
+        private void lblCrustTypeChosen_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

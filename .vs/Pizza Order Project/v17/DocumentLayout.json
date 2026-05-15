@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|solutionrelative:orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|d:\\mido\\back to glory\\recent programming\\c# level 1\\pizza order project\\orderconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|solutionrelative:orderconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -15,24 +19,20 @@
       "RelativeMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|solutionrelative:orderdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\aboutus.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|solutionrelative:aboutus.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|solutionrelative:orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|solutionrelative:orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\pizzarestaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|solutionrelative:pizzarestaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\aboutus.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|solutionrelative:aboutus.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|solutionrelative:aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\pizzarestaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|solutionrelative:pizzarestaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBD24AF2-AC8F-4FDF-84AB-7C9966E3D1B9}|Pizza Order Project.csproj|D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\pizzarestaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,17 +55,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AboutUs.cs [Design]",
-              "DocumentMoniker": "D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\AboutUs.cs",
-              "RelativeDocumentMoniker": "AboutUs.cs",
-              "ToolTip": "D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\AboutUs.cs [Design]",
-              "RelativeToolTip": "AboutUs.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T10:18:23.383Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "AboutUs.Designer.cs",
               "DocumentMoniker": "D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\AboutUs.Designer.cs",
               "RelativeDocumentMoniker": "AboutUs.Designer.cs",
@@ -73,36 +62,38 @@
               "RelativeToolTip": "AboutUs.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T10:18:15.891Z"
+              "WhenOpened": "2026-05-14T10:18:15.891Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "OrderDetails.Designer.cs",
               "DocumentMoniker": "D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\OrderDetails.Designer.cs",
               "RelativeDocumentMoniker": "OrderDetails.Designer.cs",
               "ToolTip": "D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\OrderDetails.Designer.cs",
               "RelativeToolTip": "OrderDetails.Designer.cs",
-              "ViewState": "AgIAAOcBAAAAAAAAAAAewPwBAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwAsCAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T09:04:09.38Z"
+              "WhenOpened": "2026-05-14T09:04:09.38Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "OrderConfirm.cs",
               "DocumentMoniker": "D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\OrderConfirm.cs",
               "RelativeDocumentMoniker": "OrderConfirm.cs",
               "ToolTip": "D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\OrderConfirm.cs",
               "RelativeToolTip": "OrderConfirm.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAApwFcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAApwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-14T08:26:47.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "OrderConfirm.cs [Design]",
               "DocumentMoniker": "D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\OrderConfirm.cs",
               "RelativeDocumentMoniker": "OrderConfirm.cs",
@@ -114,15 +105,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "OrderDetails.cs",
               "DocumentMoniker": "D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\OrderDetails.cs",
               "RelativeDocumentMoniker": "OrderDetails.cs",
               "ToolTip": "D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\OrderDetails.cs",
               "RelativeToolTip": "OrderDetails.cs",
-              "ViewState": "AgIAACgBAAAAAAAAAAApwDUBAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAD4vxsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T19:22:02.304Z"
+              "WhenOpened": "2026-05-11T19:22:02.304Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -133,7 +125,31 @@
               "ToolTip": "D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\OrderDetails.cs [Design]",
               "RelativeToolTip": "OrderDetails.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T18:56:57.992Z"
+              "WhenOpened": "2026-05-11T18:56:57.992Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PizzaRestaurant.cs [Design]",
+              "DocumentMoniker": "D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\PizzaRestaurant.cs",
+              "RelativeDocumentMoniker": "PizzaRestaurant.cs",
+              "ToolTip": "D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\PizzaRestaurant.cs [Design]",
+              "RelativeToolTip": "PizzaRestaurant.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T18:52:35.938Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AboutUs.cs [Design]",
+              "DocumentMoniker": "D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\AboutUs.cs",
+              "RelativeDocumentMoniker": "AboutUs.cs",
+              "ToolTip": "D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\AboutUs.cs [Design]",
+              "RelativeToolTip": "AboutUs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T10:18:23.383Z"
             },
             {
               "$type": "Document",
@@ -145,18 +161,8 @@
               "RelativeToolTip": "PizzaRestaurant.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T18:53:19.479Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PizzaRestaurant.cs [Design]",
-              "DocumentMoniker": "D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\PizzaRestaurant.cs",
-              "RelativeDocumentMoniker": "PizzaRestaurant.cs",
-              "ToolTip": "D:\\Mido\\Back to Glory\\Recent Programming\\C# Level 1\\Pizza Order Project\\PizzaRestaurant.cs [Design]",
-              "RelativeToolTip": "PizzaRestaurant.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T18:52:35.938Z"
+              "WhenOpened": "2026-05-11T18:53:19.479Z",
+              "EditorCaption": ""
             }
           ]
         }

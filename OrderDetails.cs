@@ -12,7 +12,7 @@ namespace Pizza_Order_Project
 {
     public partial class OrderDetails : Form
     {
-        int BasePrice = 0;
+        decimal basePrice = 0;
         public OrderDetails()
         {
             InitializeComponent();
@@ -20,41 +20,41 @@ namespace Pizza_Order_Project
         }
         private void UpdatePrice()
         {
-            int Total = BasePrice;
+            decimal total = basePrice;
 
             //Crust adds to the price
-            if (rdbThin.Checked) Total += 5;
-            if (rdbThick.Checked) Total += 10;
+            if (rdbThin.Checked) total += 5;
+            if (rdbThick.Checked) total += 10;
 
             //Size Price
-            if (rdbSmall.Checked) Total += 5;
-            if (rdbMedium.Checked) Total += 8;
-            if (rdbLarge.Checked) Total += 11;
+            if (rdbSmall.Checked) total += 5;
+            if (rdbMedium.Checked) total += 8;
+            if (rdbLarge.Checked) total += 11;
 
             //Toppings +5 Each
-            if (chkBoxExtraCheese.Checked) Total += 5;
-            if (chkBoxMushrooms.Checked) Total += 5;
-            if (chkBoxTomatoes.Checked) Total += 5;
-            if (chkBoxOlives.Checked) Total += 5;
-            if (chkBoxOnion.Checked) Total += 5;
-            if (chkBoxGreenPepper.Checked) Total += 5;
+            if (chkBoxExtraCheese.Checked) total += 5;
+            if (chkBoxMushrooms.Checked) total += 5;
+            if (chkBoxTomatoes.Checked) total += 5;
+            if (chkBoxOlives.Checked) total += 5;
+            if (chkBoxOnion.Checked) total += 5;
+            if (chkBoxGreenPepper.Checked) total += 5;
 
-            lblPrice.Text = $"${Total:F2}";
+            lblPrice.Text = $"${total:F2}";
         }
         private void UpdateToppingsLabel()
         {
-            List<string> Toppings = new List<string>();
+            List<string> topings = new List<string>();
 
             //Add Each topping that is checked
-            if (chkBoxExtraCheese.Checked) Toppings.Add("Extra Cheese");
-            if (chkBoxMushrooms.Checked) Toppings.Add("Mushrooms");
-            if (chkBoxTomatoes.Checked) Toppings.Add("Toamtoes");
-            if (chkBoxOlives.Checked) Toppings.Add("Olives");
-            if (chkBoxOnion.Checked) Toppings.Add("Onion");
-            if (chkBoxGreenPepper.Checked) Toppings.Add("Green Pepper");
+            if (chkBoxExtraCheese.Checked) topings.Add("Extra Cheese");
+            if (chkBoxMushrooms.Checked) topings.Add("Mushrooms");
+            if (chkBoxTomatoes.Checked) topings.Add("Tomatoes");
+            if (chkBoxOlives.Checked) topings.Add("Olives");
+            if (chkBoxOnion.Checked) topings.Add("Onion");
+            if (chkBoxGreenPepper.Checked) topings.Add("Green Peppers");
 
             //If Nothing is chekcked show none
-            lblToppingsChosen.Text = Toppings.Count > 0 ? string.Join("\n, ", Toppings) : "None";
+            lblToppingsChosen.Text = topings.Count > 0 ? string.Join(", ", topings) : "None";
         }
         private void UpdateSizeLabel()
         {
@@ -231,17 +231,20 @@ namespace Pizza_Order_Project
             // Validate that all options are selected
             if (!rdbThin.Checked && !rdbThick.Checked)
             {
-                MessageBox.Show("Please select a crust type!", "Missing Selection", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Please select a crust type!", "Missing Selection",
+                    MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
             if (!rdbSmall.Checked && !rdbMedium.Checked && !rdbLarge.Checked)
             {
-                MessageBox.Show("Please select a size!", "Missing Selection", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Please select a size!", "Missing Selection",
+                    MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
             if (!rdbEatIn.Checked && !rdbTakeAway.Checked)
             {
-                MessageBox.Show("Please select a place!", "Missing Selection", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Please select a place!", "Missing Selection",
+                    MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
             
@@ -308,6 +311,16 @@ namespace Pizza_Order_Project
         private void btnClosePage_Click_1(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void lblPlace_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void grpPlace_Enter(object sender, EventArgs e)
+        {
+
         }
     }
 }

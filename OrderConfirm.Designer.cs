@@ -59,7 +59,7 @@
             this.grpOrderSummary.Controls.Add(this.lblSizeChosen);
             this.grpOrderSummary.Controls.Add(this.lblSize);
             this.grpOrderSummary.Font = new System.Drawing.Font("Papyrus", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.grpOrderSummary.ForeColor = System.Drawing.Color.White;
+            this.grpOrderSummary.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.grpOrderSummary.Location = new System.Drawing.Point(31, 162);
             this.grpOrderSummary.Name = "grpOrderSummary";
             this.grpOrderSummary.Size = new System.Drawing.Size(287, 333);
@@ -73,7 +73,7 @@
             this.lblPrice.AutoSize = true;
             this.lblPrice.BackColor = System.Drawing.Color.Transparent;
             this.lblPrice.Font = new System.Drawing.Font("Segoe Print", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPrice.ForeColor = System.Drawing.Color.White;
+            this.lblPrice.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.lblPrice.Location = new System.Drawing.Point(126, 255);
             this.lblPrice.Name = "lblPrice";
             this.lblPrice.Size = new System.Drawing.Size(133, 62);
@@ -99,6 +99,7 @@
             // 
             this.lblPlaceChosen.AutoSize = true;
             this.lblPlaceChosen.Font = new System.Drawing.Font("Papyrus", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPlaceChosen.ForeColor = System.Drawing.Color.White;
             this.lblPlaceChosen.Location = new System.Drawing.Point(163, 129);
             this.lblPlaceChosen.Name = "lblPlaceChosen";
             this.lblPlaceChosen.Size = new System.Drawing.Size(27, 25);
@@ -110,6 +111,7 @@
             // 
             this.lblPlace.AutoSize = true;
             this.lblPlace.Font = new System.Drawing.Font("Papyrus", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPlace.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.lblPlace.Location = new System.Drawing.Point(163, 105);
             this.lblPlace.Name = "lblPlace";
             this.lblPlace.Size = new System.Drawing.Size(66, 30);
@@ -121,17 +123,20 @@
             // 
             this.lblCrustTypeChosen.AutoSize = true;
             this.lblCrustTypeChosen.Font = new System.Drawing.Font("Papyrus", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCrustTypeChosen.ForeColor = System.Drawing.Color.White;
             this.lblCrustTypeChosen.Location = new System.Drawing.Point(191, 75);
             this.lblCrustTypeChosen.Name = "lblCrustTypeChosen";
             this.lblCrustTypeChosen.Size = new System.Drawing.Size(27, 25);
             this.lblCrustTypeChosen.TabIndex = 5;
             this.lblCrustTypeChosen.Text = ".....";
             this.lblCrustTypeChosen.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.lblCrustTypeChosen.Click += new System.EventHandler(this.lblCrustTypeChosen_Click);
             // 
             // lblCrustType
             // 
             this.lblCrustType.AutoSize = true;
             this.lblCrustType.Font = new System.Drawing.Font("Papyrus", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCrustType.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.lblCrustType.Location = new System.Drawing.Point(158, 51);
             this.lblCrustType.Name = "lblCrustType";
             this.lblCrustType.Size = new System.Drawing.Size(130, 30);
@@ -141,20 +146,20 @@
             // 
             // lblToppingsChosen
             // 
-            this.lblToppingsChosen.AutoSize = true;
             this.lblToppingsChosen.Font = new System.Drawing.Font("Papyrus", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblToppingsChosen.ForeColor = System.Drawing.Color.White;
             this.lblToppingsChosen.Location = new System.Drawing.Point(12, 129);
             this.lblToppingsChosen.Name = "lblToppingsChosen";
-            this.lblToppingsChosen.Size = new System.Drawing.Size(27, 25);
+            this.lblToppingsChosen.Size = new System.Drawing.Size(145, 135);
             this.lblToppingsChosen.TabIndex = 3;
             this.lblToppingsChosen.Text = ".....";
-            this.lblToppingsChosen.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.lblToppingsChosen.Click += new System.EventHandler(this.lblToppingsChosen_Click);
             // 
             // lblToppings
             // 
             this.lblToppings.AutoSize = true;
             this.lblToppings.Font = new System.Drawing.Font("Papyrus", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblToppings.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.lblToppings.Location = new System.Drawing.Point(6, 105);
             this.lblToppings.Name = "lblToppings";
             this.lblToppings.Size = new System.Drawing.Size(109, 30);
@@ -166,6 +171,7 @@
             // 
             this.lblSizeChosen.AutoSize = true;
             this.lblSizeChosen.Font = new System.Drawing.Font("Papyrus", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSizeChosen.ForeColor = System.Drawing.Color.White;
             this.lblSizeChosen.Location = new System.Drawing.Point(12, 75);
             this.lblSizeChosen.Name = "lblSizeChosen";
             this.lblSizeChosen.Size = new System.Drawing.Size(27, 25);
@@ -177,6 +183,7 @@
             // 
             this.lblSize.AutoSize = true;
             this.lblSize.Font = new System.Drawing.Font("Papyrus", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSize.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.lblSize.Location = new System.Drawing.Point(6, 51);
             this.lblSize.Name = "lblSize";
             this.lblSize.Size = new System.Drawing.Size(61, 30);
