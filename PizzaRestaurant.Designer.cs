@@ -35,6 +35,7 @@
             // 
             // btnOrderNow
             // 
+            this.btnOrderNow.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.btnOrderNow.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
             this.btnOrderNow.FlatAppearance.BorderSize = 4;
             this.btnOrderNow.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
@@ -43,15 +44,18 @@
             this.btnOrderNow.Font = new System.Drawing.Font("Segoe UI Variable Display Semib", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnOrderNow.ForeColor = System.Drawing.Color.Black;
             this.btnOrderNow.Location = new System.Drawing.Point(447, 300);
+            this.btnOrderNow.MaximumSize = new System.Drawing.Size(400, 200);
             this.btnOrderNow.Name = "btnOrderNow";
             this.btnOrderNow.Size = new System.Drawing.Size(260, 66);
             this.btnOrderNow.TabIndex = 0;
             this.btnOrderNow.Text = "Order Now";
             this.btnOrderNow.UseVisualStyleBackColor = false;
+            this.btnOrderNow.SizeChanged += new System.EventHandler(this.PizzaRestaurant_Load);
             this.btnOrderNow.Click += new System.EventHandler(this.btnOrderNow_Click);
             // 
             // btnAboutUs
             // 
+            this.btnAboutUs.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.btnAboutUs.BackColor = System.Drawing.Color.Transparent;
             this.btnAboutUs.FlatAppearance.BorderSize = 4;
             this.btnAboutUs.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
@@ -60,11 +64,13 @@
             this.btnAboutUs.Font = new System.Drawing.Font("Segoe UI Variable Display Semib", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAboutUs.ForeColor = System.Drawing.Color.Black;
             this.btnAboutUs.Location = new System.Drawing.Point(447, 372);
+            this.btnAboutUs.MaximumSize = new System.Drawing.Size(400, 200);
             this.btnAboutUs.Name = "btnAboutUs";
             this.btnAboutUs.Size = new System.Drawing.Size(260, 66);
             this.btnAboutUs.TabIndex = 1;
             this.btnAboutUs.Text = "About Us";
             this.btnAboutUs.UseVisualStyleBackColor = false;
+            this.btnAboutUs.SizeChanged += new System.EventHandler(this.PizzaRestaurant_Load);
             this.btnAboutUs.Click += new System.EventHandler(this.btnAboutUs_Click);
             // 
             // PizzaRestaurant
